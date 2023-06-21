@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on anything that meets my level of skill.
 - 📫 How to reach me; hagarhamad02@gmail.com
 
-<!---
-HagarAH/HagarAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <p> Here's a link to my potfolio, have a look around!</p><span><strong>https://hagarah-github-io.vercel.app/</strong></span>
