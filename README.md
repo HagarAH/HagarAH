@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on anything that meets my level of skill.
 - 📫 How to reach me; hagarhamad02@gmail.com
 
-- <p> Here's a link to my potfolio, have a look around!</p><span><strong>https://hagarah-github-io.vercel.app/</strong></span>
+<p style="color:#FF669A"> Here's a link to my potfolio, have a look around!</p><span><strong>https://hagarah-github-io.vercel.app/</strong></span>
